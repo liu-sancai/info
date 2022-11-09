@@ -1,0 +1,50 @@
+array(18) {
+  ["id"]=>
+  int(10)
+  ["activityName"]=>
+  string(11) "Test Game 3"
+  ["activityUrl"]=>
+  string(12) "test 0003 hd"
+  ["h1Title"]=>
+  string(11) "活动003H1"
+  ["h2Title"]=>
+  string(11) "活动003H2"
+  ["activityRule"]=>
+  string(16) "活动规则0003"
+  "title" => "Test Game 3 Title",
+  "activityDescription" => "活动0003Description",
+  "keyWords" => "活动0003Keywords",
+  ["activityBackGroundUrlPc"]=>
+  string(32) "dc2166b1a43ecf59d8f99d3b955253b3"
+  ["activityBackGroundUrlPad"]=>
+  string(32) "dc2166b1a43ecf59d8f99d3b955253b3"
+  ["activityBackGroundUrlWap"]=>
+  string(32) "dc2166b1a43ecf59d8f99d3b955253b3"
+  ["drawType"]=>
+  int(1)
+  ["drawStatus"]=>
+  int(1)
+  ["activityStartTime"]=>
+  int(1667367060)
+  ["activityEndTime"]=>
+  int(1667539860)
+  ["createTime"]=>
+  int(1667367102)
+  ["updateTime"]=>
+  int(1667367102)
+}
+
+
+[
+  'id' => 10,
+  'activityName' => 'Test Game 3',
+  'activityUrl' => 'test 0003 hd',
+  'h1Title' => '活动003H1',
+  'h2Title' => '活动003H2',
+  'activityRule' => '活动规则0003',
+  'title" => "Test Game 3 Title",
+  'activityDescription' =>'活动0003Description',
+  'keyWords'=>'活动0003Keywords",
+  'activityBackGroundUrlPc' => 'dc2166b1a43ecf59d8f99d3b955253b3',
+]
+
